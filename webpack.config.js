@@ -4,7 +4,7 @@ const HtmlWebPackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = {
-  entry: './src/team.js',
+  entry: './src/character.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
   },
