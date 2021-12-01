@@ -2,7 +2,7 @@
   "name": "set",
   "version": "1.0.0",
   "description": "",
-  "main": "errorRepository.js",
+  "main": "character.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production",
