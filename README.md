@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/jux5ctd44x7mih7f?svg=true)](https://ci.appveyor.com/project/sergeyzlenskiy/classes-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/6f1eo3bkkrpuhvf5?svg=true)](https://ci.appveyor.com/project/sergeyzlenskiy/math-log-trig)
